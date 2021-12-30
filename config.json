@@ -1,0 +1,9 @@
+{
+	"ip":"ult8.falix.gg:19262",
+	"port": 19262,
+	"name": "afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (afkbot128) (afkbot128))",
+	"login-cmd":"/login (afkbot128)"
+}
